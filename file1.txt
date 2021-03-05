@@ -1,1 +1,3 @@
  This is my 1st git file
+I added this line to check the git commit ID function
+
